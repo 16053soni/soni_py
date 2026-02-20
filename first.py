@@ -1,4 +1,4 @@
 import random
-input=("Press Enter to roll the die...")
+roll=input("Press Enter to roll the die...")
 roll_result=ramdom.randint(1, 6)
-print("you rolled a" roll_result"!!")
+print(f"you rolled a {roll_result}")
